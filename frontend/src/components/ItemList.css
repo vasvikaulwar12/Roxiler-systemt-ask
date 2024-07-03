@@ -1,0 +1,23 @@
+/* ItemList.css */
+
+.item-list {
+    margin-top: 20px;
+  }
+  
+  .item {
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .item h3 {
+    margin-bottom: 5px;
+    color: #007bff;
+  }
+  
+  .item p {
+    font-size: 14px;
+  }
+  
